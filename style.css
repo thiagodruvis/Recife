@@ -1,8 +1,18 @@
 
-h1{ color: rgb(34, 39, 39);
+h1{ 
+    color: rgb(34, 39, 39);
+    background-color: rgb(181, 212, 150);
 
 }
 
+
+img {
+    margin: 22px;
+}
+
+main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 body{
     background-color: rgb(210, 240, 13);
